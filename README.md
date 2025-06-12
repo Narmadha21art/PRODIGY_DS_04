@@ -56,7 +56,7 @@ This project analyzes U.S. traffic accident data to identify patterns and contri
    ```bash
    git clone https://github.com/yourusername/traffic-accident-analysis.git
    cd traffic-accident-analysis
-````
+
 
 2. Install the required packages:
 
@@ -75,10 +75,8 @@ This project analyzes U.S. traffic accident data to identify patterns and contri
    * Run the notebook cell that saves `accident_hotspots.html`
    * Open that file in your browser
 
----
 
 ## 📌 Folder Structure
-
 ```
 traffic-accident-analysis/
 ├── Traffic_Accident_Analysis.ipynb
